@@ -1,2 +1,2 @@
 # Lista01 - Integrantes:
-
+  *
