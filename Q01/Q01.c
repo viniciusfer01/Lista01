@@ -20,4 +20,11 @@ void main() {
     
     printf("O resultado da quarta expressao eh: %d\n", 3 - *p/(*q) + 7);
 
+    /*
+        Respostas:
+        O resultado da primeira expressao eh verdadeiro
+        O resultado da segunda expressao eh: -2
+        O resultado da terceira expressao eh: 3
+        O resultado da quarta expressao eh: 10
+    */
 }
